@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Aaron Greene
-- 🌱 I’m working on several projects here
