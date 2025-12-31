@@ -1,1 +1,1 @@
-- 👋 Hi! I’m Aaron Greene
+- 👋 Hi! I’m Aaron Greene. I work at [Hume AI](https://www.hume.ai/).
